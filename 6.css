@@ -1,0 +1,23 @@
+element.style{
+
+}
+*{
+    background-color: red;
+}
+html{
+    display:block;
+}
+p{
+    color:yellow;
+    font-size: larger;
+}
+h4{
+    color: brown;
+    border-color: aquamarine;
+    background-color: aqua;
+}
+a{
+    color: brown;
+    border-color: yellow;
+    background-color: rgba(255, 191, 0, 0.895);
+}
